@@ -14,13 +14,14 @@ def main():
 
     # deckData, deckFrequency = processDecklist()
     # placeholder
-    cardNames = ["bloodstained mire", "luxury suite", "lord windgrace", "swamp"]
+    cardNames = ["bloodstained mire", "luxury suite", "lord windgrace", "swamp", "bitterblossom"]
     cardFrequency = [1, 1, 1, 40]
-    cardData = cardCollection(cardNames)
+    cardData, tokenData = cardCollection(cardNames)
     if cardData is None:
         print("end")
         return
     downloadImages(cardData)
+    downloadImages(tokenData, token=True)
     stitchImages()
     generateJSON(cardData)
     print("deck generated")
@@ -30,39 +31,30 @@ def processDecklist():
 
 def cardCollection(cardNames):
 
-    collectionAllowable = 75
-    collectionURL = "https://api.scryfall.com/cards/collection"
-    collectionHeaders = {"Content-Type": "application/JSON"}
+    # get card data
+    cardData, failures = getbyfield("name", cardNames)
 
-    chunks = chunkify(cardNames, 75)
-    cardData = []
-    failures = []
+    # show failures, end run of code if any failures
+    if len(failures) > 0:
+        print("# failures: " + str(len(failures)) + "; " + str(failures))
+        return None
 
-    for chunk in chunks:
-        identifiers = [{"name": x} for x in chunk]
+    # check for tokens, get token data
+    tokenIDs = [
+        part["id"]
+        for card in cardData if "all_parts" in card
+        for part in card["all_parts"] if part["component"] == "token"
+    ]
+    tokenData, __ = getbyfield("id", tokenIDs)
 
-        collectionData = json.dumps({"pretty": False,
-            "identifiers": identifiers
-        })
-        collection = getpost(
-                url = collectionURL,
-                data = collectionData,
-                headers = collectionHeaders
-        ).json()
+    return (cardData, tokenData)
 
-        cardData += collection["data"]
-        failures += collection["not_found"]
-
-    # test success
-    print("# failures: " + str(len(failures)) + "; " + str(failures))
-    if len(failures) > 0: return None
-    else: return cardData
-
-def downloadImages(cardData):
+def downloadImages(cardData, token=False):
+    append = "t" if token else ""
     for x, cardInfo in enumerate(cardData):
         getpost(
             url = cardInfo["image_uris"]["normal"],
-            filename = "images/" + str(x) + ".jpg"
+            filename = ".temp/" + append + str(x) + ".jpg"
         )
 
 def stitchImages():
