@@ -6,8 +6,8 @@ uses scryfall api
 
 ## Requirements
 
-python3, requests
+python3, requests, pillow
 
 ## Usage
 
-tbd
+run script on decklist, push changes to gh-pages, then paste json of decklist in outputs/ to TTS saved objects for use in TTS
