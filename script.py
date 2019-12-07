@@ -12,10 +12,9 @@ from functions import *
 
 def main():
 
-    # deckData, deckFrequency = processDecklist()
-    # placeholder
-    cardNames = ["bloodstained mire", "luxury suite", "lord windgrace", "swamp", "bitterblossom"]
-    cardFrequency = [1, 1, 1, 40]
+    cardNames, cardFrequency = processDecklist("testdecklist.txt")
+    print(cardNames)
+    print(cardFrequency)
     cardData, tokenData = cardCollection(cardNames)
     if cardData is None:
         print("end")
@@ -26,7 +25,15 @@ def main():
     generateJSON(cardData)
     print("deck generated")
 
-def processDecklist():
+def processDecklist(deckName):
+
+    with open("decklists/" + deckName, "r") as deckFile:
+        print("opening " + deckName)
+        zippedCards = [tuple(line.rstrip().split(maxsplit=1)) for line in deckFile if line]
+        cardFrequencyStr, cardNames = zip(*zippedCards)
+        cardFrequency = [int(str) for str in cardFrequencyStr]
+    return cardNames, cardFrequency
+
     return ""
 
 def cardCollection(cardNames):
