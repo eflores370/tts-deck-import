@@ -106,8 +106,8 @@ def imageObject(numWidth, numHeight, faceURL, backURL, uniqueBack = None):
         return {
             "NumWidth": numWidth,
             "NumHeight": numHeight,
-            "FaceURL": faceURL,
-            "BackURL": backURL
+            "FaceURL": "https://www.brickbolt.com/tts-deck-import/" + faceURL,
+            "BackURL": "https://www.brickbolt.com/tts-deck-import/" + backURL
         }
     else:
         return {

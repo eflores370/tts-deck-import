@@ -1721,26 +1721,26 @@
         "1": {
           "NumWidth": 5,
           "NumHeight": 5,
-          "FaceURL": "images/thrasiossmash_0.jpg",
-          "BackURL": "assets/magenta.jpg"
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/thrasiossmash_0.jpg",
+          "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/magenta.jpg"
         },
         "2": {
           "NumWidth": 5,
           "NumHeight": 5,
-          "FaceURL": "images/thrasiossmash_1.jpg",
-          "BackURL": "assets/magenta.jpg"
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/thrasiossmash_1.jpg",
+          "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/magenta.jpg"
         },
         "3": {
           "NumWidth": 5,
           "NumHeight": 5,
-          "FaceURL": "images/thrasiossmash_2.jpg",
-          "BackURL": "assets/magenta.jpg"
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/thrasiossmash_2.jpg",
+          "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/magenta.jpg"
         },
         "4": {
           "NumWidth": 5,
           "NumHeight": 5,
-          "FaceURL": "images/thrasiossmash_3.jpg",
-          "BackURL": "assets/magenta.jpg"
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/thrasiossmash_3.jpg",
+          "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/magenta.jpg"
         }
       }
     },
@@ -1799,8 +1799,8 @@
         "5": {
           "NumWidth": 3,
           "NumHeight": 1,
-          "FaceURL": "images/thrasiossmash_t0.jpg",
-          "BackURL": "assets/magenta.jpg"
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/thrasiossmash_t0.jpg",
+          "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/magenta.jpg"
         }
       }
     }
