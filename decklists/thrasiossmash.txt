@@ -1,0 +1,94 @@
+1 Woodland Cemetery
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Rootbound Crag
+1 Maze of Ith
+1 Bloodstained Mire
+1 Polluted Delta
+1 Wooded Foothills
+1 City of Brass
+1 Mana Confluence
+1 Command Tower
+1 Breeding Pool
+1 Overgrown Tomb
+1 Steam Vents
+1 Alchemist's Refuge
+1 Hinterland Harbor
+1 Drowned Catacomb
+2 Forest
+1 Bojuka Bog
+1 Misty Rainforest
+1 Reliquary Tower
+1 Ancient Tomb
+1 Glacial Chasm
+1 Strip Mine
+1 Watery Grave
+1 Stomping Ground
+1 Blood Crypt
+2 Mountain
+2 Swamp
+4 Island
+1 Sulfur Falls
+1 Temple of the False God
+1 River's Rebuke
+1 Kindred Dominance
+1 In Garruk's Wake
+1 Cultivate
+1 Birds of Paradise
+1 Farseek
+1 Talisman of Indulgence
+1 Fertile Ground
+1 Llanowar Elves
+1 Rampant Growth
+1 Nature's Lore
+1 Wild Growth
+1 Talisman of Curiosity
+1 Arcane Signet
+1 Sakura-Tribe Elder
+1 Thought Vessel
+1 Sol Ring
+1 Song of the Dryads
+1 Curtains' Call
+1 Imprisoned in the Moon
+1 Force of Vigor
+1 Beast Within
+1 Chaos Warp
+1 Thrasios, Triton Hero
+1 Vial Smasher the Fierce
+1 Swan Song
+1 Negate
+1 Dispel
+1 Torrential Gearhulk
+1 Sensei's Divining Top
+1 Zendikar Resurgent
+1 Eternal Witness
+1 Volcanic Vision
+1 Demonic Tutor
+1 Worldly Tutor
+1 Constant Mists
+1 Mystical Tutor
+1 Estrid's Invocation
+1 Artisan of Kozilek
+1 Finale of Devastation
+1 Rashmi, Eternities Crafter
+1 Stroke of Genius
+1 Treasure Cruise
+1 Windfall
+1 Dig Through Time
+1 Desertion
+1 Mind's Dilation
+1 Dragonlord Silumgar
+1 Dack Fayden
+1 It That Betrays
+1 Temporal Trespass
+1 Temporal Mastery
+1 Vedalken Orrery
+1 Wilderness Reclamation
+1 Leyline of Anticipation
+1 Strionic Resonator
+1 Wound Reflection
+1 Sygg, River Cutthroat
+1 Keen Sense
+1 Kaervek the Merciless
+1 Training Grounds
+1 Biomancer's Familiar
