@@ -2,6 +2,7 @@
 # andy wong
 
 import json
+import sys
 from shutil import copyfile
 from functions import *
 
@@ -11,24 +12,29 @@ from functions import *
 # step 4: stitch together card images for tts
 # step 5: create json for tts
 
-def main():
-
-    deckName = "thrasiossmash"
-    cardNames, cardFrequency = processDecklist("thrasiossmash.txt")
+def main(deckName, cardBack = "magic"):
+    print("opening decklists/" + deckName + ".txt")
+    cardNames, cardFrequency = processDecklist(deckName + ".txt")
+    print("gathering card data from scryfall")
     cardData, tokenData = cardCollection(cardNames)
     if cardData is None:
-        print("end")
+        print("cards missing - end program")
         return
-    flipCardNums = downloadImages(cardData)
-    flipCardNums += downloadImages(tokenData, token=True)
-    stitchImages(deckName, len(cardData), len(tokenData), flipCardNums)
-    generateJSON(deckName, cardData, cardFrequency, tokenData, flipCardNums)
-    print("deck generated")
+    # elif checkExisting(cardData, cardFrequency):
+    #     replaceCardBack(deckName, cardBack)
+    #     print("card back changed")
+    else:
+        print("downloading card images")
+        flipCardNums = downloadImages(cardData)
+        flipCardNums += downloadImages(tokenData, token=True)
+        print("stitching images together")
+        stitchImages(deckName, len(cardData), len(tokenData), flipCardNums)
+        generateJSON(deckName, cardData, cardFrequency, tokenData, flipCardNums, cardBack)
+        print("deck generated - saved to outputs/" + deckName + ".json")
 
 def processDecklist(deckName):
 
     with open("decklists/" + deckName, "r") as deckFile:
-        print("opening " + deckName)
         zippedCards = [tuple(line.rstrip().split(maxsplit=1)) for line in deckFile if line.rstrip()]
         cardFrequencyStr, cardNames = zip(*zippedCards)
         cardFrequency = [int(str) for str in cardFrequencyStr]
@@ -111,13 +117,8 @@ def generateJSON(deckName, cardData, cardFrequency, tokenData, flipCardNums, car
     )
     deckImage = dict(deckImageList)
 
-    cN = []
-    cIDs = []
-    for name, id, freq in zip(cardNames, cardIDs, cardFrequency):
-        cN += freq * [name]
-        cIDs += freq * [id]
-    cardNames = cN
-    cardIDs = cIDs
+    cardNames = freqMult(cardFrequency, cardNames)
+    cardIDs = freqMult(cardFrequency, cardIDs)
 
     mainDeck = {
         "Transform": transformObject(posY = 1),
@@ -131,8 +132,8 @@ def generateJSON(deckName, cardData, cardFrequency, tokenData, flipCardNums, car
 
     prevDeckNumber = numChunks
 
+    # token deck
     if tokenData:
-        # token deck
         tokenNames = [tokenData[x]["name"] for x in range(len(tokenData))]
         tokenIDs = [cardIDGen(x, prevDeckNumber*100) for x in range(len(tokenData))]
 
@@ -161,6 +162,7 @@ def generateJSON(deckName, cardData, cardFrequency, tokenData, flipCardNums, car
 
         prevDeckNumber += numChunks
 
+    # transform cards deck
     if flipCardNums:
         transformNames = [cardData[x]["name"] for x in flipCardNums]
         transformIDs = [cardIDGen(x, prevDeckNumber*100) for x in range(len(flipCardNums))]
@@ -197,12 +199,15 @@ def generateJSON(deckName, cardData, cardFrequency, tokenData, flipCardNums, car
 
         objectStates += [transformDeck]
 
-    jsonFile = json.dumps(
-        {"ObjectStates": objectStates},
-        indent = 2
-    )
+    jsonFile = {"ObjectStates": objectStates}
 
     with open("outputs/" + deckName + ".json", "w+") as file:
-        file.write(jsonFile)
+        json.dump(jsonFile, file, indent = 2)
 
-if __name__ == "__main__": main()
+if __name__ == "__main__":
+    if len(sys.argv) == 2:
+        main(sys.argv[1])
+    elif len(sys.argv) == 3:
+        main(sys.argv[1], sys.argv[2])
+    else:
+        print(str(len(sys.argv)) + " is an invalid number of arguments")

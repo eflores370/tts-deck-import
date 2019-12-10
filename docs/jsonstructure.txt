@@ -2,29 +2,28 @@ deck format:
 {
     "ObjectStates": [
         {
-            # regular deck
-            {
-                "Transform": { # see transform object},
-                "Name": "DeckCustom",
-                "ContainedObjects": [
-                    { # see how cards are formatted },
-                    { # card 2 },
-                    { # card 3},
-                    ...,
-                    { # card 100}
-                ],
-                "DeckIDs": [
-                    100,
-                    ...,
-                    417
-                ],
-                "CustomDeck": {
-                    "1": { # see deck image object},
-                    "2": {},
-                    ...,
-                    "4": {}
-                }
-            }
+          # regular deck
+          "Transform": { # see transform object},
+          "Name": "DeckCustom",
+          "ContainedObjects": [
+              { # see how cards are formatted },
+              { # card 2 },
+              { # card 3},
+              ...,
+              { # card 100}
+          ],
+          "DeckIDs": [
+              100,
+              ...,
+              417
+          ],
+          "CustomDeck": {
+              "1": { # see deck image object},
+              "2": {},
+              ...,
+              "4": {}
+          }
+
         },
         {
             # token deck is like the regular deck but only token objects
