@@ -150,6 +150,10 @@ def generateJSON(deckName, cardData, cardFrequency, tokenData, flipCardNums, car
         )
         tokenImage = dict(tokenImageList)
 
+        if len(tokenNames) == 1:
+            tokenNames = tokenNames * 2
+            tokenIDs = tokenIDs * 2
+
         tokenDeck = {
             "Transform": transformObject(posY = 1, posX = -4),
             "Name": "DeckCustom",
