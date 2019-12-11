@@ -1,3 +1,4 @@
+1 The Locust God
 1 Brainstorm
 1 Kindred Discovery
 1 Arcanis the Omnipotent
@@ -31,7 +32,6 @@
 1 Vandalblast
 1 Magmaquake
 1 Chaos Warp
-1 The Locust God
 1 High Market
 1 Spinerock Knoll
 1 Spirebluff Canal
@@ -83,4 +83,3 @@
 1 Force of Negation
 1 Negate
 1 Arcane Denial
-
