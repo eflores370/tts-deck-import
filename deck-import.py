@@ -66,7 +66,7 @@ def downloadImages(cardData, token=False):
     flipCardNums = []
     for x, cardInfo in enumerate(cardData):
         # if it's a transform card
-        if "card_faces" in cardInfo:
+        if not "image_uris" in cardInfo:
             flipCardNums += [x]
             getpost(
                 url = cardInfo["card_faces"][0]["image_uris"]["normal"],
