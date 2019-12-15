@@ -37,7 +37,7 @@
 1 Angel of the Dire Hour
 1 Nimbus Maze
 1 Command Tower
-7 Plains
+8 Plains
 1 Inventors' Fair
 1 Maze of Ith
 12 Island
