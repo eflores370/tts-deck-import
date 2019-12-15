@@ -1,0 +1,1808 @@
+{
+  "ObjectStates": [
+    {
+      "CustomDeck": {
+        "2": {
+          "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/skyblue.jpg",
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/raffy_1.jpg",
+          "NumWidth": 5,
+          "NumHeight": 5
+        },
+        "4": {
+          "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/skyblue.jpg",
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/raffy_3.jpg",
+          "NumWidth": 5,
+          "NumHeight": 3
+        },
+        "3": {
+          "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/skyblue.jpg",
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/raffy_2.jpg",
+          "NumWidth": 5,
+          "NumHeight": 5
+        },
+        "1": {
+          "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/skyblue.jpg",
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/raffy_0.jpg",
+          "NumWidth": 5,
+          "NumHeight": 5
+        }
+      },
+      "ContainedObjects": [
+        {
+          "CardID": 100,
+          "Nickname": "In Bolas's Clutches",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 101,
+          "Nickname": "Oath of Teferi",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 102,
+          "Nickname": "Jhoira's Familiar",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 103,
+          "Nickname": "Nezahal, Primal Tide",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 104,
+          "Nickname": "Kefnet the Mindful",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 105,
+          "Nickname": "Torrential Gearhulk",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 106,
+          "Nickname": "Thalia, Heretic Cathar",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 107,
+          "Nickname": "Medomai the Ageless",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 108,
+          "Nickname": "Lavinia of the Tenth",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 109,
+          "Nickname": "Isperia, Supreme Judge",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 110,
+          "Nickname": "Phyrexian Metamorph",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 111,
+          "Nickname": "Spellskite",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 112,
+          "Nickname": "Ethersworn Canonist",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 113,
+          "Nickname": "Michiko Konda, Truth Seeker",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 114,
+          "Nickname": "Gwafa Hazid, Profiteer",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 115,
+          "Nickname": "Lavinia, Azorius Renegade",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 116,
+          "Nickname": "Angel of Grace",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 117,
+          "Nickname": "God-Eternal Kefnet",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 118,
+          "Nickname": "Meteor Golem",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 119,
+          "Nickname": "Stunt Double",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 120,
+          "Nickname": "Sakashima the Impostor",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 121,
+          "Nickname": "Karn, Scion of Urza",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 122,
+          "Nickname": "Teferi, Hero of Dominaria",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 123,
+          "Nickname": "Jace, Unraveler of Secrets",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 200,
+          "Nickname": "Tezzeret the Seeker",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 201,
+          "Nickname": "Ugin, the Ineffable",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 202,
+          "Nickname": "Karn's Temporal Sundering",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 203,
+          "Nickname": "Fabricate",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 204,
+          "Nickname": "Merchant Scroll",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 205,
+          "Nickname": "Urza's Ruinous Blast",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 206,
+          "Nickname": "Path to Exile",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 207,
+          "Nickname": "Duplicant",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 208,
+          "Nickname": "Aetherize",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 209,
+          "Nickname": "Swords to Plowshares",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 210,
+          "Nickname": "Mangara of Corondor",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 211,
+          "Nickname": "Steel Hellkite",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 212,
+          "Nickname": "Angel of the Dire Hour",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 213,
+          "Nickname": "Nimbus Maze",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 214,
+          "Nickname": "Command Tower",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 215,
+          "Nickname": "Plains",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 215,
+          "Nickname": "Plains",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 215,
+          "Nickname": "Plains",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 215,
+          "Nickname": "Plains",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 215,
+          "Nickname": "Plains",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 215,
+          "Nickname": "Plains",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 215,
+          "Nickname": "Plains",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 216,
+          "Nickname": "Inventors' Fair",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 217,
+          "Nickname": "Maze of Ith",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 218,
+          "Nickname": "Island",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 218,
+          "Nickname": "Island",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 218,
+          "Nickname": "Island",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 218,
+          "Nickname": "Island",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 218,
+          "Nickname": "Island",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 218,
+          "Nickname": "Island",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 218,
+          "Nickname": "Island",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 218,
+          "Nickname": "Island",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 218,
+          "Nickname": "Island",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 218,
+          "Nickname": "Island",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 218,
+          "Nickname": "Island",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 218,
+          "Nickname": "Island",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 219,
+          "Nickname": "Flooded Strand",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 220,
+          "Nickname": "Academy Ruins",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 221,
+          "Nickname": "Glacial Fortress",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 222,
+          "Nickname": "Adarkar Wastes",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 223,
+          "Nickname": "Strip Mine",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 300,
+          "Nickname": "Reliquary Tower",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 301,
+          "Nickname": "Sea of Clouds",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 302,
+          "Nickname": "Ancient Tomb",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 303,
+          "Nickname": "Hallowed Fountain",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 304,
+          "Nickname": "Prairie Stream",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 305,
+          "Nickname": "Temple of the False God",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 306,
+          "Nickname": "Azorius Chancery",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 307,
+          "Nickname": "Opt",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 308,
+          "Nickname": "Pull from Tomorrow",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 309,
+          "Nickname": "Brainstorm",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 310,
+          "Nickname": "Stroke of Genius",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 311,
+          "Nickname": "Fact or Fiction",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 312,
+          "Nickname": "Sphinx's Revelation",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 313,
+          "Nickname": "Gadwick, the Wizened",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 314,
+          "Nickname": "Fellwar Stone",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 315,
+          "Nickname": "Everflowing Chalice",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 316,
+          "Nickname": "Talisman of Progress",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 317,
+          "Nickname": "Mind Stone",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 318,
+          "Nickname": "Azorius Signet",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 319,
+          "Nickname": "Chromatic Lantern",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 320,
+          "Nickname": "Arcane Signet",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 321,
+          "Nickname": "Thran Dynamo",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 322,
+          "Nickname": "Thought Vessel",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 323,
+          "Nickname": "Sol Ring",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 400,
+          "Nickname": "Arcane Denial",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 401,
+          "Nickname": "Swan Song",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 402,
+          "Nickname": "Render Silent",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 403,
+          "Nickname": "Rewind",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 404,
+          "Nickname": "Unwind",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 405,
+          "Nickname": "Dovin's Veto",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 406,
+          "Nickname": "Lightning Greaves",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 407,
+          "Nickname": "Sensei's Divining Top",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 408,
+          "Nickname": "Neurok Stealthsuit",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 409,
+          "Nickname": "Raff Capashen, Ship's Mage",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        }
+      ],
+      "Transform": {
+        "posY": 1,
+        "rotX": 0,
+        "scaleY": 1,
+        "posX": 0,
+        "scaleZ": 1,
+        "posZ": 0,
+        "rotZ": 180,
+        "rotY": 180,
+        "scaleX": 1
+      },
+      "Name": "DeckCustom",
+      "DeckIDs": [
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        215,
+        215,
+        215,
+        215,
+        215,
+        215,
+        216,
+        217,
+        218,
+        218,
+        218,
+        218,
+        218,
+        218,
+        218,
+        218,
+        218,
+        218,
+        218,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409
+      ]
+    },
+    {
+      "CustomDeck": {
+        "5": {
+          "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/skyblue.jpg",
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/raffy_t0.jpg",
+          "NumWidth": 4,
+          "NumHeight": 1
+        }
+      },
+      "ContainedObjects": [
+        {
+          "CardID": 500,
+          "Nickname": "Construct",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 501,
+          "Nickname": "Spirit",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        },
+        {
+          "CardID": 502,
+          "Nickname": "Bird",
+          "Transform": {
+            "posY": 0,
+            "rotX": 0,
+            "scaleY": 1,
+            "posX": 0,
+            "scaleZ": 1,
+            "posZ": 0,
+            "rotZ": 180,
+            "rotY": 180,
+            "scaleX": 1
+          },
+          "Name": "Card"
+        }
+      ],
+      "Transform": {
+        "posY": 1,
+        "rotX": 0,
+        "scaleY": 1,
+        "posX": -4,
+        "scaleZ": 1,
+        "posZ": 0,
+        "rotZ": 180,
+        "rotY": 180,
+        "scaleX": 1
+      },
+      "Name": "DeckCustom",
+      "DeckIDs": [
+        500,
+        501,
+        502
+      ]
+    }
+  ]
+}
