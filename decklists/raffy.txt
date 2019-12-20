@@ -1,3 +1,4 @@
+1 Raff Capashen, Ship's Mage
 1 In Bolas's Clutches
 1 Karn's Temporal Sundering
 1 Whir of Invention
@@ -81,5 +82,4 @@
 1 Rewind
 1 Unwind
 1 Dovin's Veto
-1 Raff Capashen, Ship's Mage
 
