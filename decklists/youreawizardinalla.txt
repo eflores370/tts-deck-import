@@ -1,0 +1,101 @@
+1 Pact of Negation
+1 Dark Ritual
+1 Red Elemental Blast
+1 Flusterstorm
+1 Mana Drain
+1 Winds of Rebuke
+1 Cyclonic Rift
+1 Ghostly Flicker
+1 Chain of Vapor
+1 Swan Song
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Pyroblast
+1 Dispel
+1 Lim-Dûl's Vault
+1 Mental Misstep
+1 Ad Nauseam
+1 Fire Covenant
+1 Delay
+1 Plunge into Darkness
+1 Tainted Pact
+1 Frantic Search
+1 Culling the Weak
+1 Intuition
+1 Shallow Grave
+1 Counterspell
+1 Into the Roil
+1 Brainstorm
+1 Izzet Charm
+1 Entomb
+1 Narset's Reversal
+1 Negate
+1 Pyroclasm
+1 Whispering Madness
+1 Gamble
+1 Preordain
+1 Vandalblast
+1 Gitaxian Probe
+1 Demonic Tutor
+1 Rolling Earthquake
+1 Careful Study
+1 Exhume
+1 Ponder
+1 Reanimate
+1 Faithless Looting
+1 Cascade Bluffs
+1 Arid Mesa
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Verdant Catacombs
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Wooded Foothills
+1 City of Brass
+1 Mana Confluence
+1 Snow-Covered Island
+1 Sulfurous Springs
+1 Cephalid Coliseum
+1 Shivan Reef
+1 Underground River
+1 Morphic Pool
+1 Luxury Suite
+1 Watery Grave
+1 Steam Vents
+1 Blood Crypt
+1 Prismatic Vista
+1 Darkwater Catacombs
+1 Exotic Orchard
+1 Command Tower
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Inalla, Archmage Ritualist
+1 Apprentice Necromancer
+1 Dualcaster Mage
+1 Baral, Chief of Compliance
+1 Jace, Vryn's Prodigy // Jace, Telepath Unbound
+1 Dark Confidant
+1 Wanderwine Prophets
+1 Blood Pet
+1 Spellseeker
+1 Dockside Extortionist
+1 Fellwar Stone
+1 Talisman of Dominance
+1 Chrome Mox
+1 Mana Vault
+1 Sensei's Divining Top
+1 Lotus Petal
+1 Izzet Signet
+1 Dimir Signet
+1 Talisman of Creativity
+1 Arcane Signet
+1 Sol Ring
+1 Animate Dead
+1 Dance of the Dead
+1 Mystic Remora
+1 Rhystic Study
+1 Carnival of Souls
+1 Necromancy
+
