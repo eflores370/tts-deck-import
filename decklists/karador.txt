@@ -1,0 +1,97 @@
+1 Pernicious Deed
+1 Damnation
+1 Wrath of God
+1 Kaya's Wrath
+1 Ramunap Excavator
+1 Dryad Arbor
+1 Golgari Grave-Troll
+1 Fauna Shaman
+1 Teysa Karlov
+1 Syr Konrad, the Grim
+1 Eternal Witness
+1 Plaguecrafter
+1 Karmic Guide
+1 Unburial Rites
+1 Reveillark
+1 Krosan Grip
+1 Reclamation Sage
+1 Knight of Autumn
+1 Caustic Caterpillar
+1 Wood Elves
+1 Farhaven Elf
+1 Elves of Deep Shadow
+1 Smothering Tithe
+1 Sol Ring
+1 Sakura-Tribe Elder
+1 Cultivate
+1 Birds of Paradise
+1 Avacyn's Pilgrim
+1 Life from the Loam
+1 High Market
+1 Marsh Flats
+1 Verdant Catacombs
+1 Wasteland
+1 Crypt of Agadeem
+1 Bloodstained Mire
+1 Windswept Heath
+1 Reflecting Pool
+1 Cabal Coffers
+2 Forest
+1 Strip Mine
+1 Murmuring Bosk
+1 Bountiful Promenade
+1 Urborg, Tomb of Yawgmoth
+1 Ancient Tomb
+1 Phyrexian Tower
+1 Dakmor Salvage
+1 Godless Shrine
+3 Snow-Covered Swamp
+2 Snow-Covered Plains
+1 Field of the Dead
+1 Woodland Cemetery
+1 Isolated Chapel
+1 Sunpetal Grove
+1 Witch's Cottage
+1 Command Tower
+1 Fabled Passage
+1 Temple Garden
+1 Overgrown Tomb
+1 Temple of the False God
+1 Reliquary Tower
+1 Bojuka Bog
+1 Enlightened Tutor
+1 Birthing Pod
+1 Entomb
+1 Buried Alive
+1 Demonic Tutor
+1 Anguished Unmaking
+1 Despark
+1 Ravenous Chupacabra
+1 Path to Exile
+1 Grim Haruspex
+1 Harmonize
+1 Underrealm Lich
+1 Grisly Salvage
+1 Guardian Project
+1 Midnight Reaper
+1 Abzan Ascendancy
+1 Stitcher's Supplier
+1 Zulaport Cutthroat
+1 Cruel Celebrant
+1 Spore Frog
+1 World Shaper
+1 Dictate of Erebos
+1 Viscera Seer
+1 Altar of Dementia
+1 Skullclamp
+1 Ashnod's Altar
+1 Carrion Feeder
+1 Karador, Ghost Chieftain
+1 Trailblazer's Boots
+1 Swiftfoot Boots
+1 Chromatic Lantern
+1 Lightning Greaves
+1 Vraska, Golgari Queen
+1 Liliana, Dreadhorde General
+1 Garruk, Cursed Huntsman
+
