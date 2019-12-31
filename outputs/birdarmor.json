@@ -16,7 +16,7 @@
       "ContainedObjects": [
         {
           "Name": "Card",
-          "Nickname": "Haze of Pollen",
+          "Nickname": "Squadron Hawk",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -32,7 +32,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Haze of Pollen",
+          "Nickname": "Squadron Hawk",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -48,7 +48,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Haze of Pollen",
+          "Nickname": "Squadron Hawk",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -64,7 +64,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Haze of Pollen",
+          "Nickname": "Squadron Hawk",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -80,7 +80,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Negate",
+          "Nickname": "Legion Conquistador",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -96,7 +96,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Negate",
+          "Nickname": "Legion Conquistador",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -112,7 +112,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Negate",
+          "Nickname": "Legion Conquistador",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -128,7 +128,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Negate",
+          "Nickname": "Legion Conquistador",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -144,7 +144,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Winds of Qal Sisma",
+          "Nickname": "Healer's Hawk",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -160,7 +160,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Winds of Qal Sisma",
+          "Nickname": "Healer's Hawk",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -176,7 +176,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Winds of Qal Sisma",
+          "Nickname": "Healer's Hawk",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -192,7 +192,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Winds of Qal Sisma",
+          "Nickname": "Healer's Hawk",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -208,7 +208,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Fog",
+          "Nickname": "Segovian Angel",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -224,7 +224,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Fog",
+          "Nickname": "Segovian Angel",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -240,7 +240,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Fog",
+          "Nickname": "Segovian Angel",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -256,7 +256,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Fog",
+          "Nickname": "Segovian Angel",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -272,7 +272,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Merfolk Looter",
+          "Nickname": "Kor Skyfisher",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -288,7 +288,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Merfolk Looter",
+          "Nickname": "Kor Skyfisher",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -304,7 +304,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Merfolk Looter",
+          "Nickname": "Kor Skyfisher",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -320,7 +320,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Merfolk Looter",
+          "Nickname": "Kor Skyfisher",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -336,7 +336,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Sphinx's Tutelage",
+          "Nickname": "Argentum Armor",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -352,7 +352,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Sphinx's Tutelage",
+          "Nickname": "Argentum Armor",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -368,7 +368,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Sphinx's Tutelage",
+          "Nickname": "Argentum Armor",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -384,23 +384,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Sphinx's Tutelage",
-          "Transform": {
-            "posX": 0,
-            "posY": 0,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 180,
-            "rotZ": 180,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          },
-          "CardID": 105
-        },
-        {
-          "Name": "Card",
-          "Nickname": "Monastery Siege",
+          "Nickname": "Bonesplitter",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -416,7 +400,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Monastery Siege",
+          "Nickname": "Bonesplitter",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -432,7 +416,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Monastery Siege",
+          "Nickname": "Bonesplitter",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -448,7 +432,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Monastery Siege",
+          "Nickname": "Bonesplitter",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -464,7 +448,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Dictate of Kruphix",
+          "Nickname": "Honor of the Pure",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -480,7 +464,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Dictate of Kruphix",
+          "Nickname": "Honor of the Pure",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -496,7 +480,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Dictate of Kruphix",
+          "Nickname": "Honor of the Pure",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -512,7 +496,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Dictate of Kruphix",
+          "Nickname": "Honor of the Pure",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -528,7 +512,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Radiant Fountain",
+          "Nickname": "Quest for the Holy Relic",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -544,7 +528,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Radiant Fountain",
+          "Nickname": "Quest for the Holy Relic",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -560,7 +544,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Radiant Fountain",
+          "Nickname": "Quest for the Holy Relic",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -576,7 +560,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Radiant Fountain",
+          "Nickname": "Quest for the Holy Relic",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -592,7 +576,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Temple of Mystery",
+          "Nickname": "Force of Virtue",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -608,7 +592,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Temple of Mystery",
+          "Nickname": "Force of Virtue",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -624,7 +608,39 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Thornwood Falls",
+          "Nickname": "Force of Virtue",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "CardID": 109
+        },
+        {
+          "Name": "Card",
+          "Nickname": "Force of Virtue",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "CardID": 109
+        },
+        {
+          "Name": "Card",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -640,7 +656,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Thornwood Falls",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -656,7 +672,7 @@
         },
         {
           "Name": "Card",
-          "Nickname": "Forest",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -668,11 +684,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 111
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Forest",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -684,11 +700,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 111
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Forest",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -700,11 +716,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 111
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Forest",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -716,11 +732,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 111
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Forest",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -732,11 +748,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 111
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Forest",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -748,11 +764,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 111
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Island",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -764,11 +780,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 112
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Island",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -780,11 +796,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 112
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Island",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -796,11 +812,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 112
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Island",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -812,11 +828,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 112
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Island",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -828,11 +844,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 112
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Island",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -844,11 +860,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 112
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Island",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -860,11 +876,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 112
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Island",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -876,11 +892,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 112
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Island",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -892,11 +908,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 112
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Island",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -908,11 +924,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 112
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Careful Study",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -924,11 +940,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 113
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Careful Study",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -940,11 +956,11 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 113
+          "CardID": 110
         },
         {
           "Name": "Card",
-          "Nickname": "Careful Study",
+          "Nickname": "Plains",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -956,23 +972,7 @@
             "scaleY": 1,
             "scaleZ": 1
           },
-          "CardID": 113
-        },
-        {
-          "Name": "Card",
-          "Nickname": "Careful Study",
-          "Transform": {
-            "posX": 0,
-            "posY": 0,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 180,
-            "rotZ": 180,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          },
-          "CardID": 113
+          "CardID": 110
         }
       ],
       "DeckIDs": [
@@ -999,7 +999,6 @@
         105,
         105,
         105,
-        105,
         106,
         106,
         106,
@@ -1014,35 +1013,36 @@
         108,
         109,
         109,
+        109,
+        109,
         110,
         110,
-        111,
-        111,
-        111,
-        111,
-        111,
-        111,
-        112,
-        112,
-        112,
-        112,
-        112,
-        112,
-        112,
-        112,
-        112,
-        112,
-        113,
-        113,
-        113,
-        113
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110
       ],
       "CustomDeck": {
         "1": {
           "NumWidth": 5,
           "NumHeight": 3,
-          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/turbofrog_0.jpg",
-          "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/sapphire.jpg"
+          "FaceURL": "https://www.brickbolt.com/tts-deck-import/images/birdarmor_0.jpg",
+          "BackURL": "https://www.brickbolt.com/tts-deck-import/assets/ivory.jpg"
         }
       }
     }

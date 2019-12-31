@@ -1,14 +1,15 @@
 4 Haze of Pollen
+4 Negate
 4 Winds of Qal Sisma
-4 Druid's Deliverance
 4 Fog
 4 Merfolk Looter
 4 Sphinx's Tutelage
 4 Monastery Siege
 4 Dictate of Kruphix
-4 Careful Study
-3 Temple of Mystery
-4 Thornwood Falls
-7 Forest
+4 Radiant Fountain
+2 Temple of Mystery
+2 Thornwood Falls
+6 Forest
 10 Island
+4 Careful Study
 
