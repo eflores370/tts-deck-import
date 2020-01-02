@@ -1,8 +1,8 @@
 4 Haze of Pollen
 4 Negate
-4 Winds of Qal Sisma
 4 Fog
 4 Merfolk Looter
+4 Spore Frog
 4 Sphinx's Tutelage
 4 Monastery Siege
 4 Dictate of Kruphix
