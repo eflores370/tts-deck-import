@@ -1,15 +1,18 @@
 4 Cathar's Shield
 4 Bone Saw
-4 Briber's Purse
+2 Briber's Purse
 4 Spidersilk Net
+1 Library of Leng
+2 Ichor Wellspring
 3 Jeskai Ascendancy
 3 Mirrodin Besieged
 3 Mystic Monastery
 15 Island
 3 Mountain
 3 Plains
-4 Ornithopter
+2 Ornithopter
+2 Thermal Navigator
 4 Riddlesmith
-3 Emry, Lurker of the Loch
+2 Emry, Lurker of the Loch
 3 Saheeli, Sublime Artificer
 
