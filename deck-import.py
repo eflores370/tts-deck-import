@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # main script for tts-deck-import
 # andy wong
 
