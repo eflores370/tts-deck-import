@@ -1,0 +1,91 @@
+1 Abyssal Persecutor
+1 Akroan Horse
+1 Ancient Tomb
+1 Arcane Denial
+1 Basalt Monolith
+1 Bazaar Trader
+1 Blasphemous Act
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Boseiju, Who Shelters All
+1 Brainstorm
+1 Bronze Bombshell
+1 Cabal Coffers
+1 City of Brass
+1 Command Tower
+1 Confusion in the Ranks
+1 Conjured Currency
+1 Counterspell
+1 Cryptic Command
+1 Cultural Exchange
+1 Custody Battle
+1 Damnation
+1 Demonic Pact
+1 Demonic Tutor
+1 Disallow
+1 Donate
+1 Dragonskull Summit
+1 Dreadbore
+1 Drowned Catacomb
+1 Endless Whispers
+1 Exotic Orchard
+1 Exsanguinate
+1 Fiery Islet
+1 Force of Negation
+1 Gilded Drake
+1 Gilded Lotus
+1 Goldnight Castigator
+1 Grid Monitor
+1 Harmless Offering
+1 Hedron Archive
+1 Illusions of Grandeur
+1 Impulse
+1 Insurrection
+1 Juxtapose
+1 Kess, Dissident Mage
+1 Legerdemain
+1 Lord of the Pit
+1 Mana Confluence
+1 Mana Vault
+1 Maze of Ith
+1 Morphic Pool
+1 Mystical Tutor
+1 Negate
+1 Order of Succession
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Puca's Mischief
+1 Reality Shift
+1 Reflecting Pool
+1 Role Reversal
+1 Rust Elemental
+1 Scalding Tarn
+1 Shivan Reef
+5 Snow-Covered Island
+3 Snow-Covered Mountain
+4 Snow-Covered Swamp
+1 Snuff Out
+1 Sol Ring
+1 Spawnbroker
+1 Statecraft
+1 Steam Vents
+1 Steel Golem
+1 Sudden Substitution
+1 Swan Song
+1 Talisman of Dominance
+1 Taniwha
+1 Terminate
+1 Thought Lash
+1 Thran Dynamo
+1 Torment of Hailfire
+1 Underground River
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Vraska's Contempt
+1 Watery Grave
+1 Windfall
+1 Witch's Cottage
+1 Xantcha, Sleeper Agent
+1 Xathrid Demon
