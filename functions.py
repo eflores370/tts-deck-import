@@ -8,6 +8,9 @@ import os
 from math import ceil
 from PIL import Image
 
+# S3
+s3Bucket = "https://mtgcards-8eedf369-4604-4b75-9337-886fb60c973f.s3.us-west-2.amazonaws.com/tts/" 
+
 # collection defines
 collectionAllowable = 75
 collectionURL = "https://api.scryfall.com/cards/collection"
@@ -111,15 +114,15 @@ def imageObject(numWidth, numHeight, faceURL, backURL, uniqueBack = None):
         return {
             "NumWidth": numWidth,
             "NumHeight": numHeight,
-            "FaceURL": "https://www.brickbolt.com/tts-deck-import/" + faceURL,
-            "BackURL": "https://www.brickbolt.com/tts-deck-import/" + backURL
+            "FaceURL": s3Bucket + faceURL,
+            "BackURL": s3Bucket + backURL
         }
     else:
         return {
             "NumWidth": numWidth,
             "NumHeight": numHeight,
-            "FaceURL": "https://www.brickbolt.com/tts-deck-import/" + faceURL,
-            "BackURL": "https://www.brickbolt.com/tts-deck-import/" + backURL,
+            "FaceURL": s3Bucket + faceURL,
+            "BackURL": s3Bucket + backURL,
             "UniqueBack": uniqueBack
         }
 

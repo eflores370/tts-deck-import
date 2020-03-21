@@ -4,6 +4,8 @@
 
 import json
 import sys
+import boto3
+from botocore.exceptions import ClientError
 from shutil import copyfile
 from functions import *
 
@@ -12,6 +14,8 @@ from functions import *
 # step 3: download card images
 # step 4: stitch together card images for tts
 # step 5: create json for tts
+
+s3Bucket = "mtgcards-8eedf369-4604-4b75-9337-886fb60c973f"
 
 def main(deckName, cardBack = "magic"):
     print("opening decklists/" + deckName + ".txt")
@@ -31,7 +35,31 @@ def main(deckName, cardBack = "magic"):
         print("stitching images together")
         stitchImages(deckName, len(cardData), len(tokenData), flipCardNums)
         generateJSON(deckName, cardData, cardFrequency, tokenData, flipCardNums, cardBack)
+        uploadToS3()
         print("deck generated - saved to outputs/" + deckName + ".json")
+
+def uploadToS3():
+
+    s3_client = boto3.client('s3')
+
+    for root, dirs, files in os.walk("images"):
+        for filename in files:
+            try:
+                object_name = filename
+                filename = "images/" + filename
+                size = checkObj(s3_client, s3Bucket, filename)
+                if size is None or size != 0:
+                    s3_client.upload_file(filename, s3Bucket, "tts/" + object_name, ExtraArgs={'ContentType': "image/jpeg", 'ACL': "public-read"})
+            except ClientError as e:
+                logging.error(e)
+
+def checkObj(s3_client, bucket, key):
+    try:
+        obj = s3_client.head_object(Bucket=bucket, Key=key)
+        return obj['ContentLength']
+    except ClientError as exc:
+        if exc.response['Error']['Code'] != '404':
+            raise
 
 def processDecklist(deckName):
 
@@ -112,8 +140,8 @@ def generateJSON(deckName, cardData, cardFrequency, tokenData, flipCardNums, car
         [str(x) for x in range(1, numChunks + 1)],
         [imageObject(
             *stitchDimensions(chunkLengths[x]),
-            "images/" + deckName + "_" + str(x) + ".jpg",
-            "assets/" + cardBack + ".jpg"
+            deckName + "_" + str(x) + ".jpg",
+            cardBack + ".jpg"
         ) for x in range(numChunks)]
     )
     deckImage = dict(deckImageList)
@@ -145,8 +173,8 @@ def generateJSON(deckName, cardData, cardFrequency, tokenData, flipCardNums, car
             [str(x) for x in range(prevDeckNumber + 1, prevDeckNumber + numChunks + 1)],
             [imageObject(
                 *stitchDimensions(chunkLengths[x]),
-                "images/" + deckName + "_t" + str(x) + ".jpg",
-                "assets/" + cardBack + ".jpg"
+                deckName + "_t" + str(x) + ".jpg",
+                cardBack + ".jpg"
             ) for x in range(numChunks)]
         )
         tokenImage = dict(tokenImageList)
@@ -179,8 +207,8 @@ def generateJSON(deckName, cardData, cardFrequency, tokenData, flipCardNums, car
             [str(x) for x in range(prevDeckNumber + 1, prevDeckNumber + numChunks + 1)],
             [imageObject(
                 *stitchDimensions(chunkLengths[x]),
-                "images/" + deckName + "_tf" + str(x) + ".jpg",
-                "assets/" + cardBack + ".jpg"
+                deckName + "_tf" + str(x) + ".jpg",
+                cardBack + ".jpg"
             ) for x in range(numChunks)]
         )
         transformImageList = zip(
